@@ -1,2 +1,2 @@
 # webpack-simple
-Simple webpack build for webpage
+Simple starter webpack build for webpage with hot module replacement and SCSS scripts
